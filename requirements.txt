@@ -6,3 +6,4 @@ statsmodels
 scipy
 netcdf4
 h5netcdf
+bottleneck
