@@ -4,3 +4,5 @@ pandas
 xarray
 statsmodels
 scipy
+netcdf4
+h5netcdf
